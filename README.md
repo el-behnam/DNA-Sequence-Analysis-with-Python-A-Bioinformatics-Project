@@ -33,10 +33,7 @@ For the full problem statement, please refer to the [problem](./PROBLEM.md) file
 
 ## What's Next?
 
-You can start by understanding the problem in detail, and then attempt to solve it yourself. After you've finished (or if you're stuck), you can check the [solution](./SOLUTION.md) (Note: link will be active after you've added the solution file). The solution will be explained in detail to aid your understanding.
+You can start by understanding the problem in detail, and then attempt to solve it yourself. After you've finished (or if you're stuck), you can check the [solution](./SOLUTION.md). The solution will be explained in detail to aid your understanding.
 
 Remember, this is a practical, real-life problem. Take your time and enjoy the challenge!
 
----
-
-After you've added your solution, make sure you provide a detailed explanation in your SOLUTION.md file, and then link that file in your README.md. Also, don't forget to add your problem statement in a separate PROBLEM.md file.
